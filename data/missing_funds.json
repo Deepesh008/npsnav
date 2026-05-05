@@ -1,22 +1,22 @@
 {
-    "timestamp": "2026-04-05T05:59:55.143039",
+    "timestamp": "2026-05-05T06:34:39.137284",
     "summary": {
-        "total_funds_found": 239,
+        "total_funds_found": 241,
         "existing_in_your_data": 144,
-        "new_combinations_count": 113
+        "new_combinations_count": 115
     },
     "new_combinations": [
         {
             "PFM Code": "PFM001",
             "PFM Name": "SBI Pension Funds Pvt. Ltd.",
-            "Scheme Code": "SM001022",
-            "Scheme Name": "NPS TRUST A/C SBI PENSION FUND SCHEME E - TIER I GS"
+            "Scheme Code": "SM001021",
+            "Scheme Name": "NPS TRUST - A/C SBI PENSION FUNDS - NPS VATSALYA SCHEME DIRECT"
         },
         {
             "PFM Code": "PFM001",
             "PFM Name": "SBI Pension Funds Pvt. Ltd.",
-            "Scheme Code": "SM001025",
-            "Scheme Name": "NPS TRUST A/C SBI PENSION FUND SCHEME E - TIER I DIRECT"
+            "Scheme Code": "SM001022",
+            "Scheme Name": "NPS TRUST A/C SBI PENSION FUND SCHEME E - TIER I GS"
         },
         {
             "PFM Code": "PFM001",
@@ -27,14 +27,20 @@
         {
             "PFM Code": "PFM001",
             "PFM Name": "SBI Pension Funds Pvt. Ltd.",
-            "Scheme Code": "SM001026",
-            "Scheme Name": "NPS TRUST A/C SBI PENSION FUND SCHEME C - TIER I DIRECT"
+            "Scheme Code": "SM001024",
+            "Scheme Name": "NPS TRUST A/C SBI PENSION FUND SCHEME G - TIER I GS"
         },
         {
             "PFM Code": "PFM001",
             "PFM Name": "SBI Pension Funds Pvt. Ltd.",
-            "Scheme Code": "SM001024",
-            "Scheme Name": "NPS TRUST A/C SBI PENSION FUND SCHEME G - TIER I GS"
+            "Scheme Code": "SM001025",
+            "Scheme Name": "NPS TRUST A/C SBI PENSION FUND SCHEME E - TIER I DIRECT"
+        },
+        {
+            "PFM Code": "PFM001",
+            "PFM Name": "SBI Pension Funds Pvt. Ltd.",
+            "Scheme Code": "SM001026",
+            "Scheme Name": "NPS TRUST A/C SBI PENSION FUND SCHEME C - TIER I DIRECT"
         },
         {
             "PFM Code": "PFM001",
@@ -63,20 +69,14 @@
         {
             "PFM Code": "PFM001",
             "PFM Name": "SBI Pension Funds Pvt. Ltd.",
-            "Scheme Code": "SM001032",
-            "Scheme Name": "NPS TRUST A/C-SBI PENSION FUNDS PRIVATE LIMITED- NPS LITE SCHEME - GOVT. PATTERN DIRECT"
-        },
-        {
-            "PFM Code": "PFM001",
-            "PFM Name": "SBI Pension Funds Pvt. Ltd.",
-            "Scheme Code": "SM001021",
-            "Scheme Name": "NPS TRUST - A/C SBI PENSION FUNDS - NPS VATSALYA SCHEME DIRECT"
-        },
-        {
-            "PFM Code": "PFM001",
-            "PFM Name": "SBI Pension Funds Pvt. Ltd.",
             "Scheme Code": "SM001031",
             "Scheme Name": "NPS TRUST - A/C SBI PENSION FUNDS - NPS VATSALYA SCHEME POP"
+        },
+        {
+            "PFM Code": "PFM001",
+            "PFM Name": "SBI Pension Funds Pvt. Ltd.",
+            "Scheme Code": "SM001032",
+            "Scheme Name": "NPS TRUST A/C-SBI PENSION FUNDS PRIVATE LIMITED- NPS LITE SCHEME - GOVT. PATTERN DIRECT"
         },
         {
             "PFM Code": "PFM002",
@@ -489,14 +489,14 @@
         {
             "PFM Code": "PFM011",
             "PFM Name": "Tata Pension Fund Management Private Limited",
-            "Scheme Code": "SM011011",
-            "Scheme Name": "NPS TRUST A/C TATA PENSION FUND MANAGEMENT PRIVATE LIMITED SCHEME E - TIER I GS"
+            "Scheme Code": "SM011010",
+            "Scheme Name": "NPS TRUST - A/C TATA PENSION FUND - NPS VATSALYA SCHEME DIRECT"
         },
         {
             "PFM Code": "PFM011",
             "PFM Name": "Tata Pension Fund Management Private Limited",
-            "Scheme Code": "SM011014",
-            "Scheme Name": "NPS TRUST A/C TATA PENSION FUND MANAGEMENT PRIVATE LIMITED SCHEME E - TIER I DIRECT"
+            "Scheme Code": "SM011011",
+            "Scheme Name": "NPS TRUST A/C TATA PENSION FUND MANAGEMENT PRIVATE LIMITED SCHEME E - TIER I GS"
         },
         {
             "PFM Code": "PFM011",
@@ -507,14 +507,20 @@
         {
             "PFM Code": "PFM011",
             "PFM Name": "Tata Pension Fund Management Private Limited",
-            "Scheme Code": "SM011015",
-            "Scheme Name": "NPS TRUST A/C TATA PENSION FUND MANAGEMENT PRIVATE LIMITED SCHEME C - TIER I DIRECT"
+            "Scheme Code": "SM011013",
+            "Scheme Name": "NPS TRUST A/C TATA PENSION FUND MANAGEMENT PRIVATE LIMITED SCHEME G - TIER I GS"
         },
         {
             "PFM Code": "PFM011",
             "PFM Name": "Tata Pension Fund Management Private Limited",
-            "Scheme Code": "SM011013",
-            "Scheme Name": "NPS TRUST A/C TATA PENSION FUND MANAGEMENT PRIVATE LIMITED SCHEME G - TIER I GS"
+            "Scheme Code": "SM011014",
+            "Scheme Name": "NPS TRUST A/C TATA PENSION FUND MANAGEMENT PRIVATE LIMITED SCHEME E - TIER I DIRECT"
+        },
+        {
+            "PFM Code": "PFM011",
+            "PFM Name": "Tata Pension Fund Management Private Limited",
+            "Scheme Code": "SM011015",
+            "Scheme Name": "NPS TRUST A/C TATA PENSION FUND MANAGEMENT PRIVATE LIMITED SCHEME C - TIER I DIRECT"
         },
         {
             "PFM Code": "PFM011",
@@ -543,14 +549,14 @@
         {
             "PFM Code": "PFM011",
             "PFM Name": "Tata Pension Fund Management Private Limited",
-            "Scheme Code": "SM011010",
-            "Scheme Name": "NPS TRUST - A/C TATA PENSION FUND - NPS VATSALYA SCHEME DIRECT"
+            "Scheme Code": "SM011020",
+            "Scheme Name": "NPS TRUST - A/C TATA PENSION FUND - NPS VATSALYA SCHEME POP"
         },
         {
             "PFM Code": "PFM011",
             "PFM Name": "Tata Pension Fund Management Private Limited",
-            "Scheme Code": "SM011020",
-            "Scheme Name": "NPS TRUST - A/C TATA PENSION FUND - NPS VATSALYA SCHEME POP"
+            "Scheme Code": "SM011021",
+            "Scheme Name": "NPS TRUST A/C - TATA PENSION NPS SWASTHYA FUND"
         },
         {
             "PFM Code": "PFM013",
@@ -617,6 +623,12 @@
             "PFM Name": "AXIS PENSION FUND MANAGEMENT LIMITED",
             "Scheme Code": "SM013020",
             "Scheme Name": "NPS TRUST - A/C AXIS PENSION FUND - NPS VATSALYA SCHEME POP"
+        },
+        {
+            "PFM Code": "PFM013",
+            "PFM Name": "AXIS PENSION FUND MANAGEMENT LIMITED",
+            "Scheme Code": "SM013021",
+            "Scheme Name": "NPS TRUST - A/C AXIS NPS SWASTHYA TOP-UP PLUS"
         },
         {
             "PFM Code": "PFM014",
